@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomparte
 - 👀 I’m interested in IT Security, System, Network, Cloud but not at all in dev
-- 🌱 I’m currently learning security, winServers, linux administration..
+- 🌱 I’m currently learning security, winServers, linux administration, project management..
 - 📫 You can reach me in PM!
 
 <!---
