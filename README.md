@@ -2,7 +2,7 @@
 👋 Hi, I’m @Tomparte<br>👀 I’m interested in IT Security, Networking and Cloud Computing..<br>🌱 I’m currently learning network, system and cloud security, winServers, linux administration, project management..<br>📫 You can reach me in PM if any question!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-paradis) 
 
 # 💻 Tech Stack:
