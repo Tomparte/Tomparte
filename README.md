@@ -1,6 +1,6 @@
 # Hi there, I'm Tomparte. 👋
 ### Secure. Build. Innovate.
-**🛡️ Cybersecurity Expert & Web Enhancer.**
+**🛡️ Cybersecurity & Web enhancer.**
 
 I bridge the gap between robust network security and elegant web development. I specialize in building secure, innovative digital solutions that protect data and empower businesses.
 
